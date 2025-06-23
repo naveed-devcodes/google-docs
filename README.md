@@ -61,7 +61,7 @@ This Google Docs clone demonstrates the power of modern web technologies in crea
 
 ## Stay in touch
 
-📧 **Email**: ArhamZahid.dev@gmail.com  
-🌐 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/arhamzahid-dev/)
+📧 **Email**: Naveed.dev1122@gmail.com  
+🌐 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/naveed-devcodes/)
 
 Happy coding and collaborating! 🌟
